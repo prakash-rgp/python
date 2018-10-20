@@ -1,2 +1,2 @@
 # python
-python repo
+python repo fot git commands demo
